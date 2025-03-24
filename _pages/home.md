@@ -75,5 +75,5 @@ We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/SuperC.png" style="width: 100px">
 </figure>
