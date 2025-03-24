@@ -8,7 +8,9 @@ permalink: /
 
 **News: Our group will move to the University of Munich (LMU)!** Join us! 
 
-We are a dynamic research group at   [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). We have two overarching goals: first, 
+We are a dynamic research group at   [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+
+We have two overarching goals: first, 
 **to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make new,useful, never-seen-before materials**, like possible room-temperature superconductors. 
 To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
 
