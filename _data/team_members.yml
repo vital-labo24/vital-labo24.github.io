@@ -112,6 +112,13 @@
   number_educ: 1
   education1: Master Leiden University
 
+- name: Marios-Apollon Marangos
+  photo: apollon.png
+  info: Engineer
+  email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 1
+  education1: Master Physics TUM, with Kiutra
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
