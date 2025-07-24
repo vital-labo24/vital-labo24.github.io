@@ -41,6 +41,14 @@
   education1: PhD, JNCASR, with A. Sundaresan
   education2: MSc, Andhra University
 
+- name: Stefan Rudel
+  photo: Stefan.png
+  info: Postdoc, shared with the [Kloß lab](https://kloss.cup.uni-muenchen.de/dr-simon-kloss/)
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 2
+  education1: PhD, LMU Munich, with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
+  education2: MSc, LMU
+
 - name: Amber Mozes
   photo: Amber.png
   info: PhD Student, started September 2021
@@ -72,7 +80,7 @@
   education4:
 
 - name: Louw Feenstra
-  photo: rock.jpg
+  photo: Louw.jpeg
   info: PhD Student, started November 2024
   email: b
   number_educ: 2
