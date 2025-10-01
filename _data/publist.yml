@@ -1,7 +1,7 @@
 - title: "Cryogenic geometric anti-spring vibration isolation system"
   image: GAS.png
-  description: The combination of low temperature and low vibration levels is key for ultrasensitive sensing applications such as scanning probe microscopy, large-mass quantum mechanics, and gravitational wave detection. Here we develop and present a new cryogenic GAS system to achieve such environments. 
-  authors: L. Feenstra, S. Domínguez-Calderon, K. van Oosten, H. S. M. Bohemen, T. Benschop, M. Brinkman, M. Li, E. Hennes, R. Cornelissen, B. J. Hensen, A. Bertolini, M. P. Allan
+  description: TLow temperature and low vibration levels are key for scanning probe microscopy, large-mass quantum mechanics, and gravitational wave detection. Here we develop and present a new cryogenic GAS system to achieve such environments. 
+  authors: L. Feenstra, S. Dominguez-Calderon, K. van Oosten, H. S. M. Bohemen, T. Benschop, M. Brinkman, M. Li, E. Hennes, R. Cornelissen, B. J. Hensen, A. Bertolini, M. P. Allan
   link:
     url: https://arxiv.org/abs/2509.09010
     display: arXiv (2025)
@@ -9,7 +9,7 @@
 
 - title: "Tapping-mode SQUID-on-tip Microscopy with Proximity Josephson Junctions"
   image: SQUIDGAME.png
-  description: We measure measure non-equilibrium properties such as current and dissipation, and their relation to structure, which a novel SQUID-AFM. Collaboration with teh , led by Matthijs Rog.
+  description: We measure measure non-equilibrium properties such as current and dissipation, and their relation to structure, which a novel SQUID-AFM. Collaboration with the [Lahabi Lab](https://www.lahabilab.com), led by Matthijs Rog.
   authors: Matthijs Rog, Tycho J. Blom, Daan B. Boltje, Jimi D. de Haan, Remko Fermin, Jiasen Niu, Yasmin C. Doedes, Milan P. Allan, Kaveh Lahabi
   link:
     url: https://arxiv.org/pdf/2508.21575
