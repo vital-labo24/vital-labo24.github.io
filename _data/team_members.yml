@@ -55,7 +55,7 @@
   info: Postdoc
   email: benschop@physics.leidenuniv.nl
   number_educ: 3
-  education1: Postdoc Bar-Ilan University, with [Beena Kalisky](https://beenalab.biu.ac.il)
+  education1: Postdoc Bar-Ilan, with [Beena Kalisky](https://beenalab.biu.ac.il)
   education2: PhD Homi Bhabha National Institute
   education3: MSc National Institute of Technology - Tiruchirappalli
 
@@ -64,8 +64,8 @@
   info: Postdoc
   email: benschop@physics.leidenuniv.nl
   number_educ: 2
-  education2: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
-  education3: MSc Technion
+  education1: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
+  education2: MSc Technion
 
 - name: Amber Mozes
   photo: Amber.png
