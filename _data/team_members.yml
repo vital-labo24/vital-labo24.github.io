@@ -43,12 +43,29 @@
 
 - name: Stefan Rudel
   photo: Stefan.png
-  info: Postdoc, shared with the [Kloß lab](https://kloss.cup.uni-muenchen.de/dr-simon-kloss/)
+  info: Postdoc
   email: benschop@physics.leidenuniv.nl
   number_educ: 3
   education1: Postdoc LMU Munich, with [Wolfgang Schnick](https://www.cup.uni-muenchen.de/ac/schnick/prof-dr-w-schnick/)
   education2: PhD TUM and University of Marburg with [Florian Kraus](https://www.uni-marburg.de/de/fb15/arbeitsgruppen/anorganische_chemie/ag-kraus)
   education3: MSc TUM
+
+- name: Devidas TR
+  photo: devidas.png
+  info: Postdoc
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 3
+  education1: Postdoc Bar-Ilan University, with [Beena Kalisky](https://beenalab.biu.ac.il)
+  education2: PhD Homi Bhabha National Institute
+  education3: MSc National Institute of Technology - Tiruchirappalli
+
+- name: Yuval Nitzav
+  photo: Yuval.png
+  info: Postdoc
+  email: benschop@physics.leidenuniv.nl
+  number_educ: 2
+  education2: PhD Technion with [Amit Kanigel](https://phsites.technion.ac.il/arpes/)
+  education3: MSc Technion
 
 - name: Amber Mozes
   photo: Amber.png
@@ -89,22 +106,6 @@
   education2: MSc, LMU Munich, with [Christian Pfleiderer](https://www.professoren.tum.de/en/pfleiderer-christian)
   education3:
   education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
 
 - name: Ilse Kuijf
   photo: ilse.jpeg
