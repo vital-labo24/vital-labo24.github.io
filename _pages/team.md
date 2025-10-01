@@ -39,24 +39,24 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <li> {{ member.education1 | markdownify}} </li>
+  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education3 | markdownify}} </li>
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <li> {{ member.education1 | markdownify}} </li>
+  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education3 | markdownify}} </li>
+  <li> {{ member.education4 | markdownify}} </li>
   {% endif %}
 
   {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
+  <li> {{ member.education1 | markdownify}} </li>
+  <li> {{ member.education2 | markdownify}} </li>
+  <li> {{ member.education3 | markdownify}} </li>
+  <li> {{ member.education4 | markdownify}} </li>
+  <li> {{ member.education5 | markdownify}} </li>
   {% endif %}
 
   </ul>
