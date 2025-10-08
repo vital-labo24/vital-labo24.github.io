@@ -1,4 +1,3 @@
-
 - title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
   image: TBG_ARPES.png
   authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
@@ -18,14 +17,3 @@
     display: Nanotechnology 30, 335702 (2019)
   highlight: 1
   news2: See also our papers on the theoretical modeling of such measurements, and the paper about fabrication.
-
-
-- title: "Amplifier for scanning tunneling microscopy at MHz frequencies"
-  image: Fano.png
-  description: We develop, build and test a novel amplifier circuit capable of measuring the tunneling current in the MHz regime while simultaneously performing conventional STM measurements. We are looking forward to performing scanning noise spectroscopy on quantum materials!
-  authors: KM Bastiaans, T Benschop, D Chatzopoulos, D Cho, Q Dong, Y Jin, MP Allan
-  link:
-    url: https://aip.scitation.org/doi/10.1063/1.5043267
-    display:  Rev. Sci. Instrum. 89, 093709 (2018)
-  highlight: 0
-  news2:
