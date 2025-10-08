@@ -1,13 +1,3 @@
-- title: "Fabrication of on-chip probes for double-tip scanning tunneling microscopy"
-  image: TBG_ARPES.png
-  authors: M Leeuwenhoek, F Groenewoud, K van Oosten, T Benschop, MP Allan, S Gröblacher
-  description:
-  link:
-    url: https://www.nature.com/articles/s41378-020-00209-y
-    display:  Microsyst. Nanoeng. 6, 99 (2020)
-  highlight: 0
-  news2:
-
 - title: "Nanofabricated tips as a platform for double-tip and device based scanning tunneling microscopy"
   image: SmartPub.png
   description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
